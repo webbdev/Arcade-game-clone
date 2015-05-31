@@ -1,0 +1,31 @@
+body {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background: #fff;
+  font-family: courier;
+  margin:0;
+}
+
+#gameName {
+  color: #000;
+  font-size: 32px;
+  font-family: courier;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+canvas {
+  margin: 0;
+}
+
+@media only screen and (min-width: 750px) {
+
+}
+
