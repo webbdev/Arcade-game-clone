@@ -1,7 +1,7 @@
 # Arcade-game-clone
 This game clone was created for Udacity Front-End Web Developer Nanodegree's Project-3: "Classic Arcade Game Clone "Bugger!""
 
-"Bugger" is 2D Arcade Game.
+**"Bugger"** is 2D Arcade Game.
 The goal of the game - help the player to cross the game screen from the bottom edge to the top and  to score the most points.
 Field of game consists of 6 rows. 
 1, 2 lower rows - grass are safe and here player starts game.
